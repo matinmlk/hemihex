@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://docs.hemihex.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/hemihex/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'HemiHex', // Usually your GitHub org/user name.
-  projectName: 'hemihex-docs', // Usually your repo name.
+  organizationName: 'matinmlk', // Usually your GitHub org/user name.
+  projectName: 'hemihex', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
