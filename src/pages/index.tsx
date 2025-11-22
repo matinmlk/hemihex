@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 export default function Home() {
   return (
     <Layout
-      title="Welcome to HemiHex Docs"
+      title="Welcome to HemiHex Docs V1.0"
       description="AI-powered vision inspection documentation for industrial automation">
       <div style={{ padding: '2rem', maxWidth: '800px', margin: '0 auto' }}>
         <h1>Welcome to HemiHex Documentation 🚀</h1>
