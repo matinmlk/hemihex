@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+yarn-error.log
+npm-debug.log
+package-lock.json
+
+# Docusaurus build output
+build/
+.docusaurus/
+
+# Environment variables
+.env
+.env.local
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary / cache
+.cache/
+.tmp/
+
+# Generated files
+coverage/
